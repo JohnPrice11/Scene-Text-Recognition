@@ -1,4 +1,4 @@
-# Scene Text Detection & Recognition Pipeline (Detectron2 + TrOCR)
+# Scene Text Detection & Prediction Pipeline (Detectron2 + TrOCR)
 
 This project implements a complete **Scene Text Detection & Recognition** system using:
 
