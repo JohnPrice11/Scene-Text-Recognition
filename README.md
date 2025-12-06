@@ -1,9 +1,9 @@
 # Scene Text Detection & Prediction Pipeline (Detectron2 + TrOCR)
 
-This project implements a complete **Scene Text Detection & Recognition** system using:
+This project implements a complete **Scene Text Detection & Prediction** system using:
 
 - **Detectron2 Mask‑RCNN** for text detection  
-- **TrOCR (Transformer OCR)** for text recognition   
+- **TrOCR (Transformer OCR)** for text prediction
 
 The pipeline is fully compatible with systems **without sudo access** and supports **GPU acceleration**.
 
@@ -191,7 +191,7 @@ export PYTHONPATH=/path/to/detectron2:$PYTHONPATH
 https://drive.google.com/drive/folders/13VUdQynQ90nkvLfHYBUENiU-8D6qSZ8R?usp=drive_link
 ```
 
-### Trained models(both for text detection and recognition)
+### Trained models(both for text detection and prediction)
 ```
 https://drive.google.com/drive/folders/1joz1u-SdjqpGwGyYbzJt6GnrzUOVFZZt?usp=drive_link
 ```
